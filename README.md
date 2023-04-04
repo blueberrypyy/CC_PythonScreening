@@ -14,6 +14,7 @@ even numbers in the list.</p>
 
 <p>3. Write a Python function that takes in a list of integers (in this case use 1, -2, 3, 4, -5 and 6) and returns
 the maximum sum of any contiguous subarray of the list. A subarray is a contiguous portion of the list.</p>
+<a href='https://github.com/blueberrypyy/CC_PythonScreening/blob/master/max_sum_contiguous.py'>max_sum_contiguous.py</a>
 </br>
 
 <p>4. Network devices are identified by its MAC address, which is 6 byte / 12 hex characters
