@@ -10,11 +10,12 @@ is an Anagram of Listen. Write an example program that determines if a pair of w
 <p>2. Write a Python function that takes in a list of integers (0 through 10) and returns the sum of all the
 even numbers in the list.</p> 
 <a href='https://github.com/blueberrypyy/CC_PythonScreening/blob/master/sum_of_integers.py'>sum_of_integers.py</a>
-</br
+</br>
 
+<a href='https://github.com/blueberrypyy/CC_PythonScreening/blob/master/max_sum_contiguous.py'>max_sum_contiguous.py</a>
 <p>3. Write a Python function that takes in a list of integers (in this case use 1, -2, 3, 4, -5 and 6) and returns
 the maximum sum of any contiguous subarray of the list. A subarray is a contiguous portion of the list.</p>
-<a href='https://github.com/blueberrypyy/CC_PythonScreening/blob/master/max_sum_contiguous.py'>max_sum_contiguous.py</a>
+
 </br>
 
 <a href='https://github.com/blueberrypyy/CC_PythonScreening/blob/master/mac_processor.py'>mac_processor.py</a>
