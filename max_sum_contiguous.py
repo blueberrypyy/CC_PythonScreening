@@ -12,6 +12,8 @@
 # of the original list. This function is not necessary and is only helpful if 
 # you are dealing with a much larger dataset. 
 
+# Written by Justin Schadwill
+
 # Create list of data
 nums = [1, -2, 3, 4, -5, 6]
 
