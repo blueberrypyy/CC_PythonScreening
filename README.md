@@ -8,7 +8,8 @@ is an Anagram of Listen. Write an example program that determines if a pair of w
 </br>
 
 <p>2. Write a Python function that takes in a list of integers (0 through 10) and returns the sum of all the
-even numbers in the list.</p>
+even numbers in the list.</p> 
+<a href='https://github.com/blueberrypyy/CC_PythonScreening/blob/master/sum_of_integers.py'>sum_of_integers.py</a>
 </br
 
 <p>3. Write a Python function that takes in a list of integers (in this case use 1, -2, 3, 4, -5 and 6) and returns
