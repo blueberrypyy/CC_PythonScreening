@@ -1,5 +1,5 @@
 <h1>Charter Communications</h1>
-<p>Python Screening Questions - no requirements needed, only Python 3.xx</p>
+<p>Python Screening Questions</p>
 </br>
 
 <a href='https://github.com/blueberrypyy/CC_PythonScreening/blob/master/efficient_anagram.py'>memory_efficient_anagram.py</a>
