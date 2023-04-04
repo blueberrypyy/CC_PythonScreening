@@ -2,7 +2,7 @@
 <p>Python Screening Questions</p>
 </br>
 
-<a href='https://github.com/blueberrypyy/CC_PythonScreening/blob/master/efficient_anagram.py'>memory_efficient_anagram.py</a>
+<a href='https://github.com/blueberrypyy/CC_PythonScreening/blob/master/efficient_anagram.py'>efficient_anagram.py</a>
 <p>1. Anagram is a word, phrase, or name formed by rearranging the letters of another. For example: Silent
 is an Anagram of Listen. Write an example program that determines if a pair of words are Anagrams.</p>
 </br>
