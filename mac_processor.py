@@ -1,4 +1,6 @@
-# !!! PLEASE READ THE README FILE IN ROOT DIRECTORY BEFORE RUNNING !!!
+# NOTE: I encountered a runtime error while running this program in a pipenv 
+# virtual environment. To avoid this, please be sure to  run this program 
+# outside of the virtual environment.
 
 # This program will take a set of data in JSON format as if it were a RESTful API
 # request, and process the MAC addresses and determine if each MAC address is either
