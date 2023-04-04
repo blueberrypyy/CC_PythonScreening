@@ -4,6 +4,7 @@
 
 <p>1. Anagram is a word, phrase, or name formed by rearranging the letters of another. For example: Silent
 is an Anagram of Listen. Write an example program that determines if a pair of words are Anagrams.</p>
+<a href='https://github.com/blueberrypyy/CC_PythonScreening/blob/master/efficient_anagram.py'>memory_efficient_anagram.py</a>
 </br>
 
 <p>2. Write a Python function that takes in a list of integers (0 through 10) and returns the sum of all the
