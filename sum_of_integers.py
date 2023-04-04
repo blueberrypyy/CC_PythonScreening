@@ -6,6 +6,8 @@
 # This generator function could be a better option when working with larger
 # datasets as this method could help save on memory usage.
 
+# Written by Justin Schadwill
+
 # Create list of data
 nums = list(range(11))
 
