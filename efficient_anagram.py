@@ -62,8 +62,6 @@ def read_from_sample():
     anogram_check.determine_anogram()
     
             
-
-
 def read_from_user_input():
     while True:
         anogram_list = {'a': 'b'} 
