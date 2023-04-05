@@ -5,7 +5,7 @@
 # function will reset the current sum to 0 because a negative number will only
 # decrease the sum.
 
-# I used a built in Python contant ('-inf') as an initial value of negative infinity
+# I used a built in Python constant ('-inf') as an initial value of negative infinity
 #to max_sum. This will ensure any positive value in the list will be greater than the initial value.
 
 # I then implemented a generator function to generate all contiguous subarrays
